@@ -32,3 +32,6 @@ Git GitHub
 📫 Connect
 LinkedIn
 Email
+## 🐍 Contribution Snake
+
+![Snake Animation](https://github.com/Mahad-Raja/Mahad-Raja/blob/output/github-contribution-grid-snake.svg)
